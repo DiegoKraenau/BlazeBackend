@@ -1,5 +1,5 @@
 module.exports = {
-    PORT: process.env.PROD_PORT,
+    PORT: process.env.PORT,
     "production":{
         username: process.env.PROD_DB_USERNAME,
         password : process.env.PROD_DB_PASSWORD,

@@ -22,4 +22,3 @@ con.connect(function (err) {
     process.exit(1);
   });
 });
-
